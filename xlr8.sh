@@ -51,7 +51,7 @@ echo ""
 
 
 PW_WD=$(pwd)
-cd model
+
 cp headapis $PW_WD
 cp tailapis $PW_WD
 cd ..
