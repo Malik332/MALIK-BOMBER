@@ -6,6 +6,9 @@
 *This tool is for educational purposes only !*
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
+*This tool is not working properly...soory for inconvenience ..
+Need time to fix*
+
 
 ## Usage
 Clone it by
